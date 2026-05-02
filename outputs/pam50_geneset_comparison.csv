@@ -1,0 +1,4 @@
+representation,n_features,train_c_index,test_c_index,n_train,n_test,n_pam50_genes_found
+Clinical + PCA-20,51,0.7959,0.692,1583,396,49
+Clinical + PAM50 raw,80,0.8138,0.667,1583,396,49
+Clinical + PAM50 pathway scores,35,0.7771,0.6883,1583,396,49

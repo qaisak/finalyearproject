@@ -1,0 +1,2 @@
+n_actual,delta,c_baseline,event_rate_q,correlation_r,alpha,power_actual,n_needed_80pct
+1980,0.04,0.64,0.5778,0.8,0.05,0.8351,1805

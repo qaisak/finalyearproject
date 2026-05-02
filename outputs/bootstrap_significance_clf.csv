@@ -1,0 +1,4 @@
+Comparison,Metric_A,Metric_B,Delta,DeLong_z,DeLong_p,Bootstrap_CI_lower,Bootstrap_CI_upper,Bootstrap_p
+Trimodal Voting vs Clinical RandomForest (ROC-AUC),AUC=0.7625,AUC=0.7565,0.006,0.319,0.7496,-0.0302,0.0427,0.77
+Trimodal Voting vs Clinical HistGB (ROC-AUC),AUC=0.7625,AUC=0.7485,0.0139,0.638,0.5238,-0.0283,0.0574,0.547
+Trimodal Voting vs Trimodal Stacking (ROC-AUC),AUC=0.7625,AUC=0.7598,0.0027,0.422,0.6732,-0.0101,0.0158,0.713

@@ -1,7 +1,7 @@
 subtype,internal_metabric_holdout_n_test,external_tcga_n_test,external_tcga_events,n_gain_vs_internal,comment
-Basal,,169,22,,Independent TCGA external subtype test size.
-Her2,,75,15,,Independent TCGA external subtype test size.
-LumA,,496,57,,Independent TCGA external subtype test size.
-LumB,,193,31,,Independent TCGA external subtype test size.
-Normal,,35,7,,Independent TCGA external subtype test size.
-claudin-low,,0,0,,No TCGA claudin-low label in cached harmonised data.
+Basal,37,169,22,132,Independent TCGA external subtype test size.
+Her2,51,75,15,24,Independent TCGA external subtype test size.
+LumA,135,496,57,361,Independent TCGA external subtype test size.
+LumB,79,193,31,114,Independent TCGA external subtype test size.
+Normal,32,35,7,3,Independent TCGA external subtype test size.
+claudin-low,37,0,0,-37,No TCGA claudin-low label in cached harmonised data.

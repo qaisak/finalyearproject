@@ -1,0 +1,2 @@
+Dataset,Model,Train_Set,N_test,Features,External_C_index,CI_lower,CI_upper,Internal_C_index,Delta
+TCGA-BRCA (PanCancer Atlas),RSF Clinical,METABRIC (N=1980),1071,"age_at_diagnosis, lymph_nodes_examined_positive, subtype",0.6483,0.5843,0.7085,0.7112,0.0629

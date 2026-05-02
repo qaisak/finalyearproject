@@ -1,0 +1,4 @@
+Model,N,Spearman_rho,p_value,Interpretation
+CoxPH,1858,0.8449365572046196,0.0,High overlap suggests clinical variables already proxy molecular state.
+RSF,1858,0.9143502625216555,0.0,High overlap suggests clinical variables already proxy molecular state.
+GBSA,1858,0.9185763356781507,0.0,High overlap suggests clinical variables already proxy molecular state.
